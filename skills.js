@@ -1,5 +1,3 @@
-function calculateNumber(a, b) {
-  const aRound = Math.round(a);
-  const bRound = Math.round(b);
-  return aRound + bRound;
+function calculateNumber(var1, var2){
+  console.log(var1 + var2);
 }
